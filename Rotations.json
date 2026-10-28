@@ -1,16 +1,16 @@
-{ "Reset": "2026-10-20", "Raids": [
-  "King's Fall",
-  "Garden Of Salvation",
+{ "Reset": "2026-10-27", "Raids": [
+  "Root Of Nightmares",
+  "Deepstone Crypt",
   "The Desert Perpetual (Epic)",
   "The Desert Perpetual"
 ],
   "Dungeons": [
     "Equilibrium",
-    "Sundered Doctrine",
-    "Grasp of Avarice"
+    "Duality",
+    "Shattered Throne"
   ],
   "Pantheon": [
-    "Gahlran",
-    "Insurrection Prime"
+    "Calus",
+    "Warpriest"
   ]
 }
